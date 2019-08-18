@@ -1,0 +1,107 @@
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="pizonline.ru" resolutions="1x" timestamp="1536142467912">
+  <folder name="css">
+    <file name="site_global.css" crc="254135345"/>
+    <file name="master_style.css" crc="493021559" ref="index"/>
+    <file name="master_stylebg.css" crc="247148548" ref="stylebg"/>
+    <file name="stylebg.css" crc="527336907" ref="stylebg"/>
+    <file name="index.css" crc="3895056080" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="museosansblack.woff" crc="520356000"/>
+    <file name="museosansblack.eot" crc="359748862"/>
+    <file name="museosansblack.svg" crc="281895501"/>
+    <file name="ofont.ru_museo sans cyrl 300.woff" crc="157444330"/>
+    <file name="ofont.ru_museo sans cyrl 300.eot" crc="4158904674"/>
+    <file name="ofont.ru_museo sans cyrl 300.svg" crc="91539081"/>
+    <file name="museosansmedium.woff" crc="3998735653"/>
+    <file name="museosansmedium.eot" crc="48782276"/>
+    <file name="museosansmedium.svg" crc="354895946"/>
+    <file name="museosanslight.woff" crc="292524207"/>
+    <file name="museosanslight.eot" crc="4211328224"/>
+    <file name="museosanslight.svg" crc="3780415014"/>
+    <file name="museosansbold.woff" crc="61809368"/>
+    <file name="museosansbold.eot" crc="295826210"/>
+    <file name="museosansbold.svg" crc="231535554"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:stylebg"/>
+    <file name="museutils.js" crc="531812214" ref="index:stylebg"/>
+    <file name="whatinput.js" crc="84559013" ref="index:stylebg"/>
+    <file name="pie.js" crc="3827607177" ref="index:stylebg"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:stylebg"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="index:stylebg"/>
+    <file name="jquery.musemenu.js" crc="3902934130" ref="index:stylebg"/>
+    <file name="webpro.js" crc="4156477058" ref="index:stylebg"/>
+    <file name="musewpslideshow.js" crc="4058618124" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3810062583" ref="index"/>
+    <file name="touchswipe.js" crc="4174436727" ref="index"/>
+    <file name="form_check.php" crc="373582055" ref="index:stylebg"/>
+    <file name="form_throttle.php" crc="211381018" ref="index:stylebg"/>
+    <file name="form_process.php" crc="6354943" ref="index:stylebg"/>
+    <file name="form-u2424.php" crc="4096515785" ref="index"/>
+    <file name="form-u7457.php" crc="4222707198" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:stylebg"/>
+    <file name="form-u7332.php" crc="3887569775" ref="stylebg"/>
+  </folder>
+  <folder name="images">
+    <file name="icons8-телефон-filled-17.png" crc="4242517991" ref="index:stylebg"/>
+    <file name="icons8-телефон-filled-17a.png" crc="282638563" ref="index:stylebg"/>
+    <file name="logo.png" crc="4123199173" ref="index"/>
+    <file name="icons8-r-15.png" crc="226494393" seo="true" ref="index:stylebg"/>
+    <file name="icons8-коробка-15.png" crc="4183593154" seo="true" ref="index:stylebg"/>
+    <file name="icons8-код-региона-25.png" crc="25251650" seo="true" ref="index:stylebg"/>
+    <file name="icons8-shopping-cart-20.png" crc="4260573252" seo="true" ref="index:stylebg"/>
+    <file name="pizza.png" crc="3904703018" ref="index:stylebg"/>
+    <file name="pizza-color.png" crc="4083587779" ref="index:stylebg"/>
+    <file name="noodles.png" crc="124940507" ref="index:stylebg"/>
+    <file name="noodles-color.png" crc="150669663" ref="index:stylebg"/>
+    <file name="salad.png" crc="4167811000" ref="index:stylebg"/>
+    <file name="salad-color.png" crc="405029403" ref="index:stylebg"/>
+    <file name="fruit.png" crc="3901283771" ref="index:stylebg"/>
+    <file name="fruit-color.png" crc="4217914057" ref="index:stylebg"/>
+    <file name="dish.png" crc="2422362" ref="index:stylebg"/>
+    <file name="dish-color.png" crc="198051732" ref="index:stylebg"/>
+    <file name="slider001.jpg" crc="371315311" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="slider002.jpg" crc="8505632" seo="true" ref="index"/>
+    <file name="prev-01-u721.png" crc="17425817" ref="index"/>
+    <file name="prev-02-u721-r.png" crc="3989844965" ref="index"/>
+    <file name="next-01-u719.png" crc="155787939" ref="index"/>
+    <file name="next-02-u719-r.png" crc="4177389576" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="wave-frame003.png" crc="152552885" ref="index:stylebg"/>
+    <file name="wave-frame003b.png" crc="331988398" ref="index"/>
+    <file name="img-pizza.jpg" crc="190608771" seo="true" ref="index"/>
+    <file name="img-category-6.jpg" crc="4020750209" seo="true" ref="index"/>
+    <file name="img-pizza02.png" crc="4292252469" seo="true" ref="index"/>
+    <file name="img-category-4.jpg" crc="4222665149" seo="true" ref="index"/>
+    <file name="bg-fon-preimushestva-images.png" crc="4202140274" ref="index"/>
+    <file name="icons8-in-transit-48.png" crc="425742071" seo="true" ref="index"/>
+    <file name="icons8-payment-history-48.png" crc="4002043239" seo="true" ref="index"/>
+    <file name="icons8-pizza-48.png" crc="176272118" seo="true" ref="index"/>
+    <file name="icons8-weber-48.png" crc="432131500" seo="true" ref="index"/>
+    <file name="4bdf7fc1-2426-471f-8547-37c72db4d316.jpg" crc="4276145581" seo="true" ref="index"/>
+    <file name="shef.png" crc="344034763" seo="true" ref="index"/>
+    <file name="u2439-17.png" crc="3782754956" ref="index"/>
+    <file name="u2439-17-r.png" crc="3771262905" ref="index"/>
+    <file name="u2439-17-m.png" crc="3771262905" ref="index"/>
+    <file name="u2439-17-fs.png" crc="346087212" ref="index"/>
+    <file name="slider001-crop-u2517.jpg" crc="490978447" ref="index"/>
+    <file name="slider001-crop-u2863.jpg" crc="490978447" ref="index"/>
+    <file name="slider001-crop-u2917.jpg" crc="490978447" ref="index"/>
+    <file name="u7458-17.png" crc="3782754956" ref="index"/>
+    <file name="u7458-17-r.png" crc="3771262905" ref="index"/>
+    <file name="u7458-17-m.png" crc="3771262905" ref="index"/>
+    <file name="u7458-17-fs.png" crc="346087212" ref="index"/>
+    <file name="0ffdd74b-99a8-4ea5-bafc-c00298cca085.png" crc="116206239" seo="true" ref="index:stylebg"/>
+    <file name="76745625-ca89-4abe-b668-6b95c59ae43a.png" crc="493623149" seo="true" ref="index:stylebg"/>
+    <file name="logo02.png" crc="4188737740" ref="stylebg"/>
+    <file name="logo03.png" crc="4237182626" ref="stylebg"/>
+    <file name="u7340-17.png" crc="3782754956" ref="stylebg"/>
+    <file name="u7340-17-r.png" crc="3771262905" ref="stylebg"/>
+    <file name="u7340-17-m.png" crc="3771262905" ref="stylebg"/>
+    <file name="u7340-17-fs.png" crc="346087212" ref="stylebg"/>
+  </folder>
+  <file name="index.html" crc="4096028970" seo="true" mt="1536142445045" redirect="true"/>
+  <file name="stylebg.html" crc="125424775" seo="true" mt="1536142235361" redirect="true"/>
+</manifest>
